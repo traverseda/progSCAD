@@ -1,0 +1,4 @@
+versioneer
+mkdocs
+sphinx
+sphinx-autobuild
